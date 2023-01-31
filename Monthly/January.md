@@ -8,4 +8,4 @@ The people I asked recommended Gameboy or NES, and I started looking at Gameboy 
 
 My friend pointed out I never played any games made for GBC, so I thought about Gameboy Advance. However, it seems much more _advanced_ and I would still want it to support original Gameboy and Gameboy Color games. I figured I would just write a GBC emulator first, then when I'm satisfied with it, I will eventually write a GBA emulator that uses my GBC emulator backend for GBC and DMG support.
 
-Currently me end goal of what system I want to emulate is the Nintendo DS. I spent a lot of time playing on my DS as a kid, but never learned about its internals. I want to make something I can feel proud of, and I think an emulator where I can run the games I grew up with would be a good choice.
+Currently my end goal of what system I want to emulate is the Nintendo DS. I spent a lot of time playing on my DS as a kid, but never learned about its internals. I want to make something I can feel proud of, and I think an emulator where I can run the games I grew up with would be a good choice.
